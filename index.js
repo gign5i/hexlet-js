@@ -1,3 +1,3 @@
-import { last } from "./src/index.js";
+import { func } from "./src/index.js";
 
-last();
+func();
